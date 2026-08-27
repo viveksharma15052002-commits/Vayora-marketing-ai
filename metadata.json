@@ -1,0 +1,8 @@
+{
+  "name": "Remix AURELIA | Haute Gastronomie",
+  "description": "An ultra-luxury fine dining sanctuary featuring modern culinary gastronomy, a dark obsidian aesthetic with burnished gold accents, curated tasting menus, and a multi-layered parallax photo gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
